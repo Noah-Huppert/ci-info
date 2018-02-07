@@ -13,15 +13,15 @@ of their continuous integration and deployment workflows.
 Features include:
 
 - **Service agnostic**
-> CI Info works with any continuous integration platform.
+	- CI Info works with any continuous integration platform.
 
 - **Granular status information**
-> CI Info provides details about exactly what stage and step the 
+	- CI Info provides details about exactly what stage and step the 
 	  pipeline is currently executing.
 
 - **User manual generation**
-> CI Info automatically generates a user manual for the continuous integration pipeline.
-> Complete with troubleshooting guides for troublesome pipeline steps.
+	- CI Info automatically generates a user manual for the continuous integration pipeline.
+	- Complete with troubleshooting guides for troublesome pipeline steps.
 
 CI Info is composed of 2 main compontents:
 
