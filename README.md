@@ -32,5 +32,8 @@ CI Info is composed of 2 main compontents:
 To use CI Info you must insert a few CI Info API calls into your continuous 
 integration pipeline.  
 
-These API calls provide CI Info with in depth status information about the 
-execution of a pipeline. 
+These API calls provide CI Info with live in depth status information about the 
+execution of a pipeline.  
+
+To make these API calls use the `ci-info` client. A binary download is only
+available for linux at the moment because the tool is still in active development.  
